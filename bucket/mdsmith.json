@@ -1,10 +1,10 @@
 {
-    "version": "0.43.0",
+    "version": "0.46.0",
     "description": "Fast Markdown linter and formatter.",
     "homepage": "https://github.com/jeduden/mdsmith",
     "license": "MIT",
-    "url": "https://github.com/jeduden/mdsmith/releases/download/v0.43.0/mdsmith-windows-amd64.exe#/mdsmith.exe",
-    "hash": "1a7f7d7d37bb5217e4b44af49953da1f28323c09df72e8b3b8b70ec4b92eb7bf",
+    "url": "https://github.com/jeduden/mdsmith/releases/download/v0.46.0/mdsmith-windows-amd64.exe#/mdsmith.exe",
+    "hash": "ef16b6886dead0ff9817fcff70a5c1a655ae75657694f30695c4ddb31595f4e0",
     "bin": "mdsmith.exe",
     "checkver": {
         "github": "https://github.com/jeduden/mdsmith"
